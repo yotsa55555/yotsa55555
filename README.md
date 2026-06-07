@@ -7,7 +7,7 @@ I am a self taught Full Stack Developer with 2+ years of experience, transitioni
 * **I'm Thai** (Based in Thailand)
 * **Current Status:** Full Stack Developer Intern at **Seagate Technology (Korat Plant)**
 * **Past Experience:** Collaboration with **First Precision factory**, mentored by an AI Engineer.
-* **Currently Learning:** Web Development integrated with **AI Agentic workflows** (My current hyper-focus!).
+* **Currently Learning:** Web Development integrated with **AI Agentic workflows** (My current focus!).
 * 📩 **Contact Me:** qartune01@gmail.com
 
 ---
