@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer Intern & Digital Media Engineering Student
 
-I am a self taught Full Stack Developer with 2+ years of experience, transitioning from **Frontend ➡️ Backend ➡️ Full Stack**. I have a strong background in Digital Media Engineering, which allows me to bridge the gap between creative media and robust software development. 
+I am a self taught Full Stack Developer with 2+ years of experience, transitioning from **Frontend ➡️ Backend ➡️ Full Stack**. I have a strong background in Digital Media Engineering, which allows me to bridge the gap between creative media and software development. 
 
 * 🇹🇭 **Im Thai** (Based in Thailand)
 * 🏢 **Current Status:** Full Stack Developer Intern at **Seagate Technology (Korat Plant)**
