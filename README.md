@@ -4,17 +4,17 @@
 
 I am a self taught Full Stack Developer with 2+ years of experience, transitioning from **Frontend ➡️ Backend ➡️ Full Stack**. I have a strong background in Digital Media Engineering, which allows me to bridge the gap between creative media and software development. 
 
-* 🇹🇭 **Im Thai** (Based in Thailand)
-* 🏢 **Current Status:** Full Stack Developer Intern at **Seagate Technology (Korat Plant)**
-* 🏭 **Past Experience:** Collaboration with **First Precision factory**, mentored by an AI Engineer.
-* 🧠 **Currently Learning:** Web Development integrated with **AI Agentic workflows** (My current hyper-focus!).
-* 📩 **Contact Me:** [qartune01@gmail.com]
+* **I'm Thai** (Based in Thailand)
+* **Current Status:** Full Stack Developer Intern at **Seagate Technology (Korat Plant)**
+* **Past Experience:** Collaboration with **First Precision factory**, mentored by an AI Engineer.
+* **Currently Learning:** Web Development integrated with **AI Agentic workflows** (My current hyper-focus!).
+* 📩 **Contact Me:** qartune01@gmail.com
 
 ---
 
 ### 📊 My Projects & Creations
-* 📂 **Web Development:** Developed **5 major projects** (3 are publicly available, 2 are private client projects).
-* 🎮 **Media & Simulation:** Experienced in creating **Python Games, VR Simulators, AR Simulators, Roblox Game Tutorials on YouTube, Stop-motion, and Game Trailers**.
+* **Web Development:** Developed **5 major projects** (3 are publicly available, 2 are private client projects).
+* **Media & Simulation:** Experienced in creating **Python Games, VR Simulators, AR Simulators, Roblox Game Tutorials on YouTube, Stop-motion, and Game Trailers**.
 
 ---
 
@@ -49,7 +49,3 @@ I am a self taught Full Stack Developer with 2+ years of experience, transitioni
   <img src="https://img.shields.io/badge/Lark-00D2C4?style=for-the-badge&logo=lark&logoColor=white" alt="Lark"/>
 </p>
 
----
-
-### 👁️ Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=[yotsa55555]&color=blue&style=flat)
